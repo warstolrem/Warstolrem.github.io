@@ -1,5 +1,6 @@
 body {
-  background-image: url("/Users/g_cssconference/Documents/Website/lifehacks.jpg");
+  /*background-image: url("/Users/g_cssconference/Documents/Website/lifehacks.jpg");*/
+  background-image: url("lifehacks.jpg"); 
   background-repeat:no-repeat;
   background-position:center;
   background-color: #9BF3FF;
